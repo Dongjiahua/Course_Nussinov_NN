@@ -23,4 +23,5 @@ python main.py
 ```
 When running the program, you should see these from the terminal:
 <img src="imgs/terminal.png" width="300"/>
+
 Open the address and enjoy our project!
